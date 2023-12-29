@@ -28,6 +28,10 @@
 <img src="https://img.shields.io/badge/C-4479A1?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white">
  <br/>
+<img src="https://img.shields.io/badge/Tensorflow-f9940c?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/Anaconda-58f90c?style=for-the-badge&logo=anaconda&logoColor=white">
+<img src="https://img.shields.io/badge/Googlecolab-3d85c6?style=for-the-badge&logo=googlecolab&logoColor=white">
+ <br/>
  <br/>
 </div>
 <!--
