@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&text=A.M.U.labs&color=F8E2FF&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=venom&text=A.M.U.labs&color=F8E2FF&fontSize=30)
 
 <!--
 **Skkuhodomo/Skkuhodomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
