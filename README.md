@@ -1,7 +1,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&text=A.M.U&color=F8E2FF&fontSize=30)
 <div align="center">
-
+ <br/>
+  
+###### AI Makes Universe
+  
+  <br/>
+   <br/>
+   
 ####  :wave: Welcome to my github profile !
 
   
