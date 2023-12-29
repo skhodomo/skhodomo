@@ -1,6 +1,6 @@
-<div align="center">
-![header](https://capsule-render.vercel.app/api?type=venom&text=A.M.U&color=F8E2FF&fontSize=30)
 
+![header](https://capsule-render.vercel.app/api?type=venom&text=A.M.U&color=F8E2FF&fontSize=30)
+<div align="center">
 
 ####  :wave: Welcome my github profile !
 
