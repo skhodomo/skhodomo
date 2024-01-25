@@ -33,6 +33,8 @@ Python Library 📚
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
  <img src="https://img.shields.io/badge/Tensorflow-f9940c?style=for-the-badge&logo=tensorflow&logoColor=white">
    <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+    <img src="https://img.shields.io/badge/Scikit learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+
  
 ###  👉 Backend Development
  <br/>
