@@ -7,15 +7,7 @@
 ##   AI, Data-mining, Backend, Semi-conductor
 
   </div>
-  <br/>
-   <br/>
-   
-###  :wave: Welcome to my github profile !
-
-  
- <br/>
- <br/>
-
+ 
 ### 👉 Programming languages
 
   
