@@ -3,7 +3,7 @@
 <div align="">
  <br/>
   <div align= "center">
-   
+   ![](https://komarev.com/ghpvc/?username=Skkuhodomo)
 ##   AI, Data-mining, Backend, Semi-conductor
 
   </div>
@@ -55,8 +55,10 @@ Python Library 📚
 <img src="https://img.shields.io/badge/Googlecolab-3d85c6?style=for-the-badge&logo=googlecolab&logoColor=white">
  <br/>
  <br/>
-
+![Ankush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Skkuhodomo&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
 </div>
 <!--
 **Skkuhodomo/Skkuhodomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
