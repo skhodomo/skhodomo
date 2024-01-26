@@ -63,6 +63,10 @@ Python Library 📚
 
 ![](https://komarev.com/ghpvc/?username=Skkuhodomo)
 ![Ankush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Skkuhodomo&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
+<div align="center">  
+  
+  <img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skkuhodomo&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+</div> 
 
 
 
