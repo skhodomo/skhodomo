@@ -1,20 +1,12 @@
 
 <div align="">
- <br/>
   <div align= "center">
-  
-
   </div>
  
-### 👉 Programming languages
-
-  
- <br/>
- 
+ ### 👉 Programming languages
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/C-4479A1?style=for-the-badge&logo=C&logoColor=white">
- <br/>
  <br/>
  
  ###  👉 AI Development
@@ -35,21 +27,9 @@ Python Library 📚
 
  
 ###  👉 Backend Development
- <br/>
- <img src="https://img.shields.io/badge/Springboot-0000000?style=for-the-badge&logo=springboot&logoColor=white">
-
- 
- 
-###  👉 Databases & Cloud Hosting
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-
- <br/>
-
- <br/>
+ <img src="https://img.shields.io/badge/Springboot-0000000?style=for-the-badge&logo=springboot&logoColor=white"/>
 
 </div>
-<div>  
   
   <img width="30%" height="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skkuhodomo&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
 </div> 
