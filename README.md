@@ -1,13 +1,8 @@
 
-![header](https://capsule-render.vercel.app/api?type=venom&text=AI&color=F8E2FF&fontSize=30)
-
-
-
 <div align="">
  <br/>
   <div align= "center">
   
-##   AI, Data-mining, Backend, Semi-conductor
 
   </div>
  
