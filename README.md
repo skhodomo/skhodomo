@@ -46,12 +46,6 @@ Python Library 📚
 
  <br/>
 
-### 👉 Once I've used
-  <br/>
-<img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Anaconda-58f90c?style=for-the-badge&logo=anaconda&logoColor=white">
-<img src="https://img.shields.io/badge/Googlecolab-3d85c6?style=for-the-badge&logo=googlecolab&logoColor=white">
- <br/>
  <br/>
 
 </div>
