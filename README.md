@@ -1,6 +1,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Skkuhodomo&theme=default&) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Skkuhodomo&theme=default&utcOffset=3)
-![](https://komarev.com/ghpvc/?username=Skkuhodomo&color=blue)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Skkuhodomo&theme=default)
 <div align="">
   <div align= "center">
   </div>
