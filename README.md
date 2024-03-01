@@ -34,7 +34,6 @@ Python Library 📚
 
 </div>
   
-  <img width="30%" height="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skkuhodomo&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
 </div> 
 
 
