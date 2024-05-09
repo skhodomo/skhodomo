@@ -16,17 +16,18 @@
  Langchain 🦜️🔗
   <br/>
   <br/>
+  
  <img src="https://img.shields.io/badge/OpenAI-0000000?style=for-the-badge&logo=openai&logoColor=white">
  <img src="https://img.shields.io/badge/Gemini-886FBF?style=for-the-badge&logo=googlebard&logoColor=white">
+<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+
+
   <br/>
   <br/>
-Python Library 📚
+ ###  👉 Cloud <br/>
  <br/>
- <br/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
- <img src="https://img.shields.io/badge/Tensorflow-f9940c?style=for-the-badge&logo=tensorflow&logoColor=white">
-   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-    <img src="https://img.shields.io/badge/Scikit learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 
  
 ###  👉 Backend Development
