@@ -1,4 +1,4 @@
-[![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/skkuhodomo?theme=unicorn&extension=activity)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/skkuhodomo?theme=unicorn&extension=activity)](https://leetcard.skkuhodomo.cool/skkuhodomo?theme=unicorn&extension=activity)
 
 <div align="">
   <div align= "center">
