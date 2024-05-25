@@ -1,7 +1,5 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Skkuhodomo&theme=default&) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Skkuhodomo&theme=default&utcOffset=9)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/skkuhodomo?theme=unicorn&extension=activity)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Skkuhodomo&theme=default)
 <div align="">
   <div align= "center">
   </div>
