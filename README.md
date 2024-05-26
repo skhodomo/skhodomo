@@ -3,8 +3,8 @@
 
 - 🌱 I’m currently learning optimization, computer systems. 
 - 📫 How to reach me **beppa2396@skku.edu**
-- 🏛️ B.S| System Management Engineering      (data science, optimizing)
-- 🏛️ B.S| Advanced Semiconductor Engineering ( AI SW/HW Architecture)
+- 🏛️ B.S| System Management Engineering      (data science, optimizing)(2023~)
+- 🏛️ B.S| Advanced Semiconductor Engineering ( AI SW/HW Architecture)  (2023~)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
