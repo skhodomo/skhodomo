@@ -9,7 +9,7 @@
 <p align="right">
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Skkuhodomo&theme=default)
+<img align="center" src="https://mridul-github-readme-stats.vercel.app/api/top-langs/?username=Skkuhodomo&layout=compact&theme=graywhite&hide_border=true" /> 
 <p align="left">
 </p>
 
