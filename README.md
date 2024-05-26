@@ -1,4 +1,3 @@
-[![LeetCode Stats](https://leetcard.jacoblin.cool/skkuhodomo?theme=light&extension=contest)](https://leetcard.skkuhodomo.cool/skkuhodomo?theme=light&extension=contest)
 
 <div align="">
   <div align= "center">
