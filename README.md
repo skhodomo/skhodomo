@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Skkuhodomo</h1>
 <h3 align="center">I'm studying optimization AI systems(both SW/HW)</h3>
 
-- 🌱 I’m currently learning **Data science**
-
+- 🌱 I’m currently learning optimization, computer systems. 
 - 📫 How to reach me **beppa2396@skku.edu**
+- 🏛️ B.S| System Management Engineering      (data science, optimizing)
+- 🏛️ B.S| Advanced Semiconductor Engineering ( AI SW/HW Architecture)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
