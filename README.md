@@ -6,9 +6,6 @@
 - 🏛️ B.S| System Management Engineering      (data science, optimizing)(2023~)
 - 🏛️ B.S| Advanced Semiconductor Engineering ( AI SW/HW Architecture)  (2023~)
 
-<h3 align="left">Connect with me:</h3>
-
-
 <p align="right">
 </p>
 
