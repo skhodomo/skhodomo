@@ -7,6 +7,12 @@
 - 🏛️ B.S| Advanced Semiconductor Engineering ( AI SW/HW Architecture)  (2023~)
 
 <h3 align="left">Connect with me:</h3>
+
+
+<p align="right">
+</p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Skkuhodomo&theme=default)
 <p align="left">
 </p>
 
