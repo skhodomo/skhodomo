@@ -7,7 +7,7 @@
 - 🏛️ B.S| Advanced Semiconductor Engineering ( AI SW/HW Architecture)  (2023~)
   
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://mridul-github-readme-stats.vercel.app/api/top-langs/?username=Skkuhodomo&layout=compact&theme=graywhite&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skkuhodomo&size_weight=0.5&count_weight=0.7&langs_count=8" alt="Top Languages" />
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Skkuhodomo?cardType=github&theme=graywhite&preferLogin=false" alt="GitHub Stats" />
 </div>
 
