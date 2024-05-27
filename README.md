@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning optimization, computer systems. 
 - 📫 How to reach me **beppa2396@skku.edu**
 - 🏛️ B.S| System Management Engineering      (data science, optimizing)(2023~)
-- 🏛️ B.S| Advanced Semiconductor Engineering ( AI SW/HW Architecture)  (2023~)
+- 🏛️ B.S| Advanced Semiconductor Engineering ( AI SW/HW Architecture)  (2024.08~)
   
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skkuhodomo&size_weight=0.5&count_weight=0.7&langs_count=8&count_private=true" alt="Top Languages" />
