@@ -1,4 +1,3 @@
-![](https://capsule-render.vercel.app/api?type=soft&height=100&color=0E341B&text=Welcome!%20&reversal=false&fontAlign=50&fontSize=30&fontColor=f0f8ff&animation=fadeIn)
 <h3 align="center">I'm studying optimization AI systems(SW & HW)</h3>
 
 - 🌱 I’m currently learning optimization, computer systems. 
