@@ -5,10 +5,7 @@
 - 🏛️ B.S| System Management Engineering      (data science, optimizing)(2026 expected)
 - 🏛️ B.S| Advanced Semiconductor Engineering ( AI SW/HW Architecture)  (2026 expected)
   
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skkuhodomo&size_weight=0.5&count_weight=0.7&langs_count=8&count_private=true" alt="Top Languages" />
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Skkuhodomo?cardType=github&theme=graywhite&preferLogin=false" alt="GitHub Stats" />
-</div>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
