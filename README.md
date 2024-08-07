@@ -10,4 +10,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,c,flask,postman,linux,raspberrypi,pytorch,redis,spring,tensorflow,docker,scikitlearn,mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,flask,fastapi,postman,linux,raspberrypi,pytorch,redis,spring,tensorflow,docker,scikitlearn,mysql&theme=light)](https://skillicons.dev)
